@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Counter Frontend project",
+    "description": "A frontend counter project with React",
+    "fullDescription": "A simple yet functional web application built to demonstrate the fundamentals of state management and user interaction in frontend development. The app allows users to increase, decrease, and reset a numerical counter dynamically.",
+    "image": "/S_S1.png",
+    "technologies": ["React", "JavaScript", "HTML5", "CSS3","Tailwind CSS"],
+    "demoLink": "https://counter-hc1u.vercel.app/",
+    "githubLink": "https://github.com/SahilRawat16/counter",
+    "features": [
+      "Interactive user interface with real-time counter updates",
+      "Increment, decrement, and reset functionalities",
+      "Clean and responsive layout using HTML, CSS, and JavaScript / React.js",
+      "Modular and beginner-friendly structure for understanding component-based development"
+    ],
+    "category": "Frontend"
+  },
+  {
+    "id": 2,
+    "title": "Restaurant Menu Viewer",
+    "description": "An interactive frontend web application designed to display a restaurant’s digital menu in a clean and user-friendly interface",
+    "fullDescription": "An interactive frontend web application designed to display a restaurant’s digital menu in a clean and user-friendly interface. Users can browse through various food categories, view item details, and explore pricing and descriptions seamlessly.",
+    "image": "/S_S2.png",
+    "technologies": ["React", "HTML5", "Tailwind CSS", "Framer Motion","JavaScript","CSS3"],
+    "demoLink": "https://restaurant-e1ax.vercel.app/",
+    "githubLink": "https://github.com/SahilRawat16/Restaurant",
+    "features": [
+      "Dynamic menu layout displaying items by category (e.g., Starters, Main Course, Desserts, Beverages)",
+      "Responsive and visually appealing design optimized for both desktop and mobile devices",
+      "Search and filter functionality for quick item discovery",
+      "Built using reusable components for scalability and performance"
+    ],
+    "category": "Frontend"
+  },
+  {
+    "id": 3,
+    "title": "Landing Page Design",
+    "description": "A modern and responsive landing page for a tech startup, showcasing their products and services effectively.",
+    "fullDescription": "A modern and responsive landing page designed to present brand information and engage visitors through an attractive, user-focused layout. The project emphasizes clean design principles, smooth navigation, and aesthetic visual balance to create a strong first impression.",
+    "image": "/S_S3.png",
+    "technologies": ["React", "HTML5", "CSS3", "Tailwind CSS","JavaScript","Framer Motion"],
+    "demoLink": "https://landing-page-steel-ten.vercel.app/",
+    "githubLink": "https://github.com/SahilRawat16/Landing-Page",
+    "features": [
+      "Current weather conditions",
+      "7-day forecast",
+      "Interactive charts",
+      "Location search",
+      "Responsive design"
+    ],
+    "category": "Frontend"
+  }
+]
